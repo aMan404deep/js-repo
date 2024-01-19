@@ -11,5 +11,5 @@ accountEmail = "as@gmail.com"
 accountPassword = "23124"
 accountCity = "Rajpura"
 
-console.table([accountId,accountEmail,accountPassword,accountCity,accountState]); //to show all the variables in a table
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState]); // to show all the variables in a table
 
